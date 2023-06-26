@@ -1,0 +1,15 @@
+/Users/huangbo/Projects/Firstone/Firstone/bin/Debug/net7.0/Firstone
+/Users/huangbo/Projects/Firstone/Firstone/bin/Debug/net7.0/Firstone.deps.json
+/Users/huangbo/Projects/Firstone/Firstone/bin/Debug/net7.0/Firstone.runtimeconfig.json
+/Users/huangbo/Projects/Firstone/Firstone/bin/Debug/net7.0/Firstone.dll
+/Users/huangbo/Projects/Firstone/Firstone/bin/Debug/net7.0/Firstone.pdb
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.csproj.AssemblyReference.cache
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.GeneratedMSBuildEditorConfig.editorconfig
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.AssemblyInfoInputs.cache
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.AssemblyInfo.cs
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.csproj.CoreCompileInputs.cache
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.dll
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/refint/Firstone.dll
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.pdb
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/Firstone.genruntimeconfig.cache
+/Users/huangbo/Projects/Firstone/Firstone/obj/Debug/net7.0/ref/Firstone.dll
