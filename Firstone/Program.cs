@@ -4,7 +4,7 @@ namespace FirstApp
 {
     public class FirstProgram
     {
-        static void Main(string[] args) {
+        static void Main_1(string[] args) {
 
             //bool isVote = true;
             //Console.WriteLine("Biggest Integer : {0}", int.MaxValue);
@@ -20,9 +20,16 @@ namespace FirstApp
             //float fNum = 0.33f;
             //Console.WriteLine("Biggst Float :{0}", float.MaxValue);
             //Console.WriteLine("Smallest Float :{0}", float.MinValue);
-            /*
-             *  byte, char, 
-             */
+
+            bool boolFromStr = bool.Parse("true");
+            int intFromStr = int.Parse("100");
+            double dblFromStr = double.Parse("1.23");
+            Console.WriteLine($"Data something: {boolFromStr.GetType()}--{intFromStr}--{dblFromStr}");
+
+            string strVal = dblFromStr.ToString();
+            Console.WriteLine($"{strVal}");
+            Console.WriteLine($"{strVal.GetType()}");
+            Console.WriteLine($"Integer :{(int)dblFromStr}");
         }
     }
 }
