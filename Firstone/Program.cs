@@ -30,6 +30,7 @@ namespace FirstApp
             Console.WriteLine($"{strVal}");
             Console.WriteLine($"{strVal.GetType()}");
             Console.WriteLine($"Integer :{(int)dblFromStr}");
+            Console.WriteLine($"Integer :{(int)dblFromStr}");
         }
     }
 }
