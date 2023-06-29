@@ -3,7 +3,7 @@ namespace Firstone
 {
     public class FormatData
     {
-        static void Main(string[] arg)
+        static void Main_1(string[] arg)
         {
             Console.WriteLine("Currency : {0:c}", 23.323223);//$23.32
             Console.WriteLine("Pad with 0s : {0:d4}", 33);//0033
