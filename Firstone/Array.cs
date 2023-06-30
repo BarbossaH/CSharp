@@ -11,7 +11,7 @@ namespace Firstone
 			}
 		}
 
-	static void Main(String[] arg)
+	static void Main_1(String[] arg)
 		{
 			//int[] ints = new int[3];
 			//ints[0] = 123;
