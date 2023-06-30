@@ -4,7 +4,7 @@ namespace Firstone
 {
     public class Program
     {
-        static void Main(string[] args)
+        static void Main2(string[] args)
         {
             string theString = "This is a string";
             //Console.WriteLine("String Length : {0}", theString.Length);
