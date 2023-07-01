@@ -6,7 +6,7 @@ namespace Firstone
 {
 	public class StringBuildCL
 	{
-		static void Main(string[] args)
+		static void Main1(string[] args)
 		{
 			StringBuilder sb = new StringBuilder("Random Text");
 			StringBuilder sb2 = new StringBuilder("More people that is important", 256);
