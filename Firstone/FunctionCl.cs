@@ -49,7 +49,7 @@ namespace Firstone
             Console.WriteLine("This is tring : {0}", sum);
         }
 
-        static void Main(string[] args)
+        static void Main1(string[] args)
 		{
             //-------out-----------
             //int solution;
