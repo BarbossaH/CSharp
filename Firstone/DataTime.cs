@@ -3,7 +3,7 @@ namespace Firstone
 {
 	public class DataTime
 	{
-		static void Main(string[] args)
+		static void Main1(string[] args)
 		{
 			DateTime awesomeDate = new DateTime(1981, 06, 22);
 			Console.WriteLine("Day of the week:{0}", awesomeDate.DayOfWeek);
