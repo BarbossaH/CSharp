@@ -7,4 +7,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="history\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="history\" />
+  </ItemGroup>
 </Project>

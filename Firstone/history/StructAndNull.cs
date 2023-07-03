@@ -18,7 +18,7 @@ namespace Firstone
                 return length * width;
             }
         }
-        static void Main(string[] args)
+        static void Main1(string[] args)
 		{
             Rectangle rr1;
             rr1.length = 18;
