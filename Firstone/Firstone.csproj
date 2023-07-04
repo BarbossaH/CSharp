@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="history\" />
+    <None Remove="Abstract&amp;Virtual\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="history\" />
+    <Folder Include="Abstract&amp;Virtual\" />
   </ItemGroup>
 </Project>

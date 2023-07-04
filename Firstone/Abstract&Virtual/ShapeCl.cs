@@ -1,7 +1,7 @@
 ﻿using System;
 namespace Firstone
 {
-	abstract class ShapeCl
+	public abstract class ShapeCl
 	{
 		public string Name { get; set; }
 

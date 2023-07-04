@@ -1,14 +1,12 @@
 ﻿using System;
-//using System.Collections.Generic;
-//using System.Linq;
-//using System.Threading.Tasks;
+
 namespace Firstone
 {
 	public class ShapeCircle : ShapeCl
 	{
 		public double Radius { get; set; }
 
-		public Circle(double radius)
+		public ShapeCircle(double radius)
 		{
 			Name = "Circle";
 			Radius = radius;
