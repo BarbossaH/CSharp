@@ -25,3 +25,11 @@ namespace Firstone
 	}
 }
 
+/*
+ *  there are two interfaces inherited by tv and powerbutton, and
+ *  tv has several functions, the instance of tv can call them
+ *  powerbuttion has an attribute name device, which could be tv
+ *  there is a tvromove to offer a function to generate a tv object
+ *  so the main function is to create a button instance and intialized.
+ *  and then call the tv's function
+ */
