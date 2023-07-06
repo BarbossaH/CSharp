@@ -5,8 +5,11 @@ namespace Firstone.Interface.smallgame
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("123");
-		}
+			MagicWarrior Julian = new MagicWarrior("Julian", 100, 26, 10,50);
+			Warrior Fiona = new Warrior("Fiona", 120, 30, 10);
+			Battle battle = new Battle();
+			battle.StartFight(Julian, Fiona);
+        }
 	}
 }
 
