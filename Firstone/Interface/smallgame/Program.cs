@@ -3,7 +3,7 @@ namespace Firstone.Interface.smallgame
 {
 	public class Program
 	{
-		static void Main(string[] args)
+		static void Main1(string[] args)
 		{
 			MagicWarrior Julian = new MagicWarrior("Julian", 100, 26, 10,50);
 			Warrior Fiona = new Warrior("Fiona", 120, 30, 10);

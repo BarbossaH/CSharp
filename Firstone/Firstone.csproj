@@ -12,11 +12,13 @@
     <None Remove="Abstract&amp;Virtual\" />
     <None Remove="Interface\" />
     <None Remove="Interface\smallgame\" />
+    <None Remove="ArrayListCL\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="history\" />
     <Folder Include="Abstract&amp;Virtual\" />
     <Folder Include="Interface\" />
     <Folder Include="Interface\smallgame\" />
+    <Folder Include="ArrayListCL\" />
   </ItemGroup>
 </Project>
