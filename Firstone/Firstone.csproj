@@ -13,6 +13,7 @@
     <None Remove="Interface\" />
     <None Remove="Interface\smallgame\" />
     <None Remove="ArrayListCL\" />
+    <None Remove="GenericCl\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="history\" />
@@ -20,5 +21,6 @@
     <Folder Include="Interface\" />
     <Folder Include="Interface\smallgame\" />
     <Folder Include="ArrayListCL\" />
+    <Folder Include="GenericCl\" />
   </ItemGroup>
 </Project>
