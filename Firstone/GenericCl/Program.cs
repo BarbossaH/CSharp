@@ -3,7 +3,7 @@ namespace Firstone.GenericCl
 {
 	public class Program
 	{
-	static void Main(string[] args)
+	static void Main1(string[] args)
 	{
             #region
             List<Animal> animals = new List<Animal>();

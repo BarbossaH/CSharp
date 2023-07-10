@@ -14,6 +14,7 @@
     <None Remove="Interface\smallgame\" />
     <None Remove="ArrayListCL\" />
     <None Remove="GenericCl\" />
+    <None Remove="Lambda\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="history\" />
@@ -22,5 +23,6 @@
     <Folder Include="Interface\smallgame\" />
     <Folder Include="ArrayListCL\" />
     <Folder Include="GenericCl\" />
+    <Folder Include="Lambda\" />
   </ItemGroup>
 </Project>
