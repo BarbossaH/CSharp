@@ -15,6 +15,7 @@
     <None Remove="ArrayListCL\" />
     <None Remove="GenericCl\" />
     <None Remove="Lambda\" />
+    <None Remove="LinQ\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="history\" />
@@ -24,5 +25,6 @@
     <Folder Include="ArrayListCL\" />
     <Folder Include="GenericCl\" />
     <Folder Include="Lambda\" />
+    <Folder Include="LinQ\" />
   </ItemGroup>
 </Project>
